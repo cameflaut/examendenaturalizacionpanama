@@ -1,0 +1,21 @@
+[
+    {
+      "question": "¿Qué es la Constitución Política de Panamá?",
+      "options": [
+        "Un conjunto de leyes básicas.",
+        "El documento que organiza al Estado panameño.",
+        "Un tratado internacional."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "¿Cuáles son los principales derechos individuales en Panamá?",
+      "options": [
+        "Derecho a la educación.",
+        "Libertad de pensamiento y expresión.",
+        "Derecho a la propiedad privada."
+      ],
+      "answer": 1
+    }
+  ]
+  
